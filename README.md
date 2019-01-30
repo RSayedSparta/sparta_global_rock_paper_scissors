@@ -1,0 +1,1 @@
+# sparta_global_rock_paper_scissors
